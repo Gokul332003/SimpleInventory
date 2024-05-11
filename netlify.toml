@@ -1,6 +1,6 @@
 [build]
   # Directory to change to before starting a build
-  base = "/"
+  base = "/index.php"
   # Build command
   command = "echo 'No build command specified'"
   # Directory to publish (relative to root of your repo)
