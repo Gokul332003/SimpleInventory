@@ -1,10 +1,10 @@
 <?php 	
 
-$localhost = "localhost";
-$username = "root";
-$password = "";
-$dbname = "sinventoryphp";
-$store_url = "http://localhost/SimpleInventorySystem-PHP/";
+$localhost = "sql305.infinityfree.com";
+$username = "if0_36530212";
+$password = "RZFiykpzz8kOc";
+$dbname = "if0_36530212_sinventoryphp";
+//$store_url = "http://localhost/SimpleInventorySystem-PHP/";
 // db connection
 $connect = new mysqli($localhost, $username, $password, $dbname);
 // check connection
